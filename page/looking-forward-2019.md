@@ -7,6 +7,9 @@ title: Looking Forward To - 2019
 
 ## January 
 
-
 - **Human Performance Optimization: The Science and Ethics of Enhancing Human Capabilities** by Michael D. Matthews (Editor), David M. Schnyer (Editor) 
-- **Foundations of Agnostic Statistics** by Peter M. Aronow and Benjamin T. Miller 
+- **Foundations of Agnostic Statistics** by Peter M. Aronow and Benjamin T. Miller
+
+## February 
+
+- **Digital Minimalism: Choosing a Focused Life in a Noisy World** by Cal Newport
