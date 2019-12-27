@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All Posts
+title: Archive
 ---
 
 
