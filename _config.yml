@@ -1,10 +1,9 @@
 baseurl:
-title: Lettuce Be Cereal
+title: "Lettuce Be Cereal"
 subtitle:
 author: joao eira
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
-name: tufte
+description: ""
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:title

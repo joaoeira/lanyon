@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How To Read (Almost) All Scientific Papers for Free
+summary: The internet has fundamentally changed who has access to knowledge
+image: /assets/img/LettuceLogo.png
 comments: false
 ---
 
