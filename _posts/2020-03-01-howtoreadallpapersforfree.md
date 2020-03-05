@@ -117,3 +117,5 @@ We are now living in an age where the obstacles between your curiosity and the r
 With this post I showed you how you can access for free and without much hassle a vast and ever increasing vault filled to the brim with the knowledge that scientists the world over have labored to unlock. There has never been this much information about the world so widely available and for so many people to enjoy, and it is my sincere hope that this will help you in taking advantage of that. 
 
 I can't wait to see what you choose to learn with it.
+
+*Thanks to Alexey Guzey for reading a draft of this*
