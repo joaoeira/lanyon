@@ -4,7 +4,9 @@ title: How To Read (Almost) All Scientific Papers for Free
 comments: false
 ---
 
-Learning is exhilarating, and science is one of the greatest accomplishments of modern civilization. While these are not terribly exciting points to make, it is curious how much of a barrier there is between the public and the scientific papers which are the products of science.
+Learning is exhilarating, and science is one of the greatest accomplishments of modern civilization. 
+
+While these are not terribly exciting points to make, it is curious how much of a barrier there is between the public and the scientific papers which are the products of science.
 
 Or rather, how much of a barrier there was. 
 
@@ -19,26 +21,6 @@ With the way that the system was structured, there was what could be called a st
 Today, that inequality is no longer in place. 
 
 While the same incentives that created it are still with us, they can no longer put up much of a fight against the curious mind. Anyone who wishes to read the latest scientific results, or the classics that have defined a field, can now do so. The ideas and insights from some of the brightest minds in the world about everything under the sun are now accessible to everyone with a curious mind and a connection to the Internet.
-
-It's worth pointing out how much of a change this is from the not so distant past.  
-
-Imagine that you wanted to learn about the research behind brain training programs. You had heard from a friend that you could literally become smarter if you payed a website's subscription fee and diligently applied yourself to playing these games that research has shown, or so your friend said, to increase people's intelligence. 
-
-Who wouldn't want to become smarter?
-
-You are skeptical though. It's not that you don't trust your friend. For all you know he genuinely believes that brain training makes people smarter. You just require some evidence before you believe that there are these amazing games that people can play to reliably increase their intelligence. What a monumental discovery this would be if it were true! Alas, with great claims come great requirements for evidence. You decide you need to see this research for yourself. 
-
-There is a slight problem though. It's been a while since you were a college student, and every journal article that you find that might be relevant to answer your question is locked behind a paywall. Worse, the publisher is asking you for $40 to read it! You don't even know if the paper is good or not. And it's not as if a single paper will provide the definite answer to this important question. Science is a conversation after all. Yet if you cannot access even a single paper, how are you ever going to get to the bottom of whether brain training works or not{% sidenote "spoiler-alert" "Spoiler alert, it doesn't." %} ? 
-
-People often resort to books when they want to learn about something. Books are great. I love them. One can never have too many books. But it can be a long time between when research is first published and when that knowledge first gets written into a book. And by the time the book comes out, the research frontier will have moved on. What is new to you is old to researchers. 
-
-And that is assuming there are books about what you want to learn about. Academic presses publish books on topics that are more niche than what general audience publishers tend to publish, but then academic books can be outrageously expensive. The second edition of Learning and Memory, a venerable reference on all things memory, costs close to 2000 dollars. If there was not a way for me to read it for free then I would be priced out of that knowledge since there is no way I would spend that kind of money in a book{% sidenote "one-of-these-days" "One of these days..." %} . 
-
-So on your journey to root out an answer for whether brain training works or not, you are stuck with having to read journal articles. Journal articles are, after all, the surest way to get up to speed about what researchers think about any topic. Yet the previous problem persists. 
-
-Even if you can find this paper or another online because some kind soul took the trouble to make it available in his or her website, there are still a lot of important papers that you can't read, papers like "A Definite Answer to the Question of Whether Brain Training Works or Not" by Dr. Never Wrong.
-
-You arrive at a crossroad's moment. You can either plod onward until, or you can just take it on faith that your friend knows what he is talking about and hope that the money and time you're spending on those magical games indeed make you more intelligent.
 
 The truth of the matter is, we have it good these days. If there is any paper we want to read we can do so with no trouble.  
 
@@ -130,8 +112,8 @@ One place you might try is the r/scholar subreddit, which specializes in those d
 
 ...
 
-We are now living in a an age where the obstacles between your curiosity and the resources with which to satisfy it are no more. Access to knowledge has, finally, been democratized. 
+We are now living in an age where the obstacles between your curiosity and the resources with which to satisfy it are no more. Access to knowledge has, finally, been democratized. 
 
-With this post I showed you how you can access for free, and without much hassle, a vast and ever increasing vault filled with the knowledge that scientists the world over have labored to unlock. Never before has there been so much information about the world been so widely available for so many people to enjoy, and I hope that this will help you in taking advantage of that. 
+With this post I showed you how you can access for free and without much hassle a vast and ever increasing vault filled to the brim with the knowledge that scientists the world over have labored to unlock. There has never been this much information about the world so widely available and for so many people to enjoy, and it is my sincere hope that this will help you in taking advantage of that. 
 
 I can't wait to see what you choose to learn with it.
