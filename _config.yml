@@ -4,6 +4,7 @@ subtitle:
 author: joao eira
 simple_search: http://google.com/search
 description: ""
+title_image: "~/assets/img/twitter-card.png"
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:title
