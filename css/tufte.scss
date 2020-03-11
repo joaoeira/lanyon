@@ -84,7 +84,8 @@ body { width: 87.5%;
        background-color: $bg-color;
        color: $text-color;
        max-width: 1400px;
-       counter-reset: sidenote-counter; }
+       counter-reset: sidenote-counter;
+      text-align: justify;}
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
@@ -242,7 +243,7 @@ img { max-width: 100%; }
                          width: 50%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
-                         font-size: 1.0rem;
+                         font-size: .9rem;
                          line-height: 1.96; //changed to bring line heights into rational pattern
                          vertical-align: baseline;
                          position: relative; }

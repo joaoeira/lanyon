@@ -230,7 +230,8 @@ body {
   background-color: #fffff8;
   color: #111;
   max-width: 1400px;
-  counter-reset: sidenote-counter; }
+  counter-reset: sidenote-counter;
+  text-align: justify; }
 
 h1 {
   font-weight: 400;
@@ -408,7 +409,7 @@ img {
   width: 50%;
   margin-top: 0;
   margin-bottom: 1.96rem;
-  font-size: 1.0rem;
+  font-size: .9rem;
   line-height: 1.96;
   vertical-align: baseline;
   position: relative; }

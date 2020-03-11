@@ -43,7 +43,7 @@ Sci-Hub has been the greatest influencing force towards a world of informational
 
 If it's true that information wants to be free, then it has found a powerful ally in Sci-hub.
 
-If there is a paper you want to read it is very unlikely you won't be able to find it with Sci-Hub. An analysis from 2017 the Sci-Hub repository at that time stacked up against the access provided by the University of Pennsylvania concluded that Sci-Hub provided a much greater coverage, containing approximately 70% of the 81.6 million scholarly articles that are registered with Crossref. Things can only have gotten better since then.
+If there is a paper you want to read it is very unlikely you won't be able to find it with Sci-Hub. [An analysis from 2018](https://elifesciences.org/articles/32822) studied how the repository amassed by Sci-Hub until 2017 stacked up against the access provided by the University of Pennsylvania and concluded that Sci-Hub provided a much greater coverage, containing approximately 70% of the 81.6 million scholarly articles that are registered with Crossref. Things can only have gotten better since then.
 
 Sci-Hub is so good that researchers worldwide, the very people who are supposed to be the ones with the exclusive access to the research literature, use it regularly because it is that much better than what their university provides.
 
