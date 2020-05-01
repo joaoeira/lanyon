@@ -17,6 +17,8 @@ Whatever obstacles there were in place, the Internet has burned them to the grou
 
 <!--more-->
 
+{% include substack.html %}
+
 In the past, if you were not a researcher or a student, there was no way for you to read scientific papers. For all the lip service payed to science and having a scientific mindset, people have not had until recently the opportunity to see for themselves what it is that scientists actually do. The relationship between the public and science has always been mediated by the media and whatever popularizing activites scientists make, either through general audience books or lectures.
 
 With the way that the system was structured, there was what could be called a state of informational inequality, whereby a select few have access to the repositories of the world's scientific knowledge while the large majority of people did not and had to contend themselves with whatever morsels they were fed by the gatekeepers. 
