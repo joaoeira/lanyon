@@ -48,7 +48,7 @@ Any proper use of Twitter starts with this fundamental principle:
 
 **You are the one in control over who has permission to put things in front of you.**
 
-Putting ads to the side, the only tweets that you see are the ones the people you follow put there. (sidebar: Retweets are tweets from other people that someone you follow chose to put in front of you) And that simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous. 
+Putting ads to the side, the only tweets that you see are the ones the people you follow put there. {% marginnote "marginnote tweet" "Retweets are tweets from other people that someone you follow chose to put in front of you," %} And that simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous. 
 
 If the main action is in who you follow, the question beckons: Whom should you follow? 
 
