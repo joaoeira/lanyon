@@ -85,7 +85,7 @@ body { width: 87.5%;
        color: $text-color;
        max-width: 1400px;
        counter-reset: sidenote-counter;
-      text-align: justify;}
+      text-align: left;}
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
@@ -131,7 +131,7 @@ blockquote p {  font-size: 1.1rem;
                 line-height: 1.78181818;
                 margin-top: 1.78181818rem;
                 margin-bottom: 1.78181818rem;
-                width: 45%;
+                width: 80%;
                 padding-left: 2.5%;
                 padding-right: 2.5%; }
 
@@ -269,7 +269,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, div.table-wrapper, div.mathblock{ width: 55%; }
+p, footer, div.table-wrapper, div.mathblock{ width: 60%; }
 
 div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
