@@ -272,7 +272,7 @@ p, li {
   vertical-align: baseline; }
 
 blockquote p {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   line-height: 1.78181818;
   margin-top: 1.78181818rem;
   margin-bottom: 1.78181818rem;
@@ -630,7 +630,9 @@ li.listing {
 
 blockquote {
   display: inline-block;
-  font-style: italic; }
+  font-style: italic;
+  border-left: #a00000 solid;
+  margin-top: 1em; }
 
 li.listing:last-of-type {
   border-bottom: none;
