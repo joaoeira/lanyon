@@ -772,3 +772,6 @@ hr.slender {
 .substack {
   text-align: center;
   font-size: 85%; }
+
+::selection {
+  background-color: rgba(160, 0, 0, 0.3); }

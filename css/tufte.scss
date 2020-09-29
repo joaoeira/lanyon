@@ -440,7 +440,6 @@ li.listing {
 blockquote {
   display: inline-block;
   font-style: italic;
-
 }
 
 li.listing:last-of-type{
@@ -615,4 +614,6 @@ hr.slender {
   font-size: 85%;
 }
 
-
+::selection {
+  background-color: rgba(160,0,0,0.3);
+}
