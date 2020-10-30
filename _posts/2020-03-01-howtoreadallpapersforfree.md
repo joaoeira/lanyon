@@ -123,4 +123,3 @@ With this post I showed you how you can access for free and without much hassle 
 
 I can't wait to see what you choose to learn with it.
 
-*Thanks to Alexey Guzey for reading a draft of this.*

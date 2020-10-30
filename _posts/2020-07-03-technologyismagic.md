@@ -190,3 +190,4 @@ We have mastered the natural world to the extent that we have not because we hav
 Where does that leave you and me? 
 
 It leaves us with the magical microwave, with a world whose folds and shapes are beyond our grasp, with the insurmountable chasm between the shallowness of our cognition and the depth of reality. And It is in that chasm where magic happens, because no matter how wide the chasm, we continue to make sense of it, we continue to want to wrap it in such a way that we can feel that we have a handle on the world that surrounds us. It’s not that the world itself is magical, it is not, but that we cannot but think of it in magical terms.
+
