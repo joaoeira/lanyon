@@ -54,6 +54,8 @@ In the first few hours of its life, it’s as if your newly created memory has j
  
 Now, to be sure, the forgetting curve, as this discovery came to be called, is an important landmark in the scientific study of memory, but it’s not a particularly useful one. We forget things over time; what a discovery! You don’t need to be a top-level scientist to come to that conclusion. It’s why we’re here in the first place!
 
+![img](/assets/howtoneverforget_images/ForgettingCurve1.png)
+
 But Ebbinghaus didn’t stop there.
  
 When he first started learning his lists of nonsense syllables, Ebbinghaus, like many a student, crammed all his studying in a single furious session. But then, possibly because he was fed up with all the cramming, he hit upon the idea of spreading his learning over time. Instead of spending the majority of a day learning one of his lists, he spaced out his learning over a few days. What he found when he did so is the most important discovery about memory that no one ever told you about.
@@ -126,7 +128,7 @@ Once you’ve installed it, you will be presented with the following screen:
 
 ![img](/assets/howtoneverforget_images/HomeScreen.png)
 
-This is the main Anki window and it shows the Decks you have in your collection. A Deck is just a group of cards. You can have as many decks as you want - although Anki struggles when you have a lot of them - but for most people, a single deck will suffice.
+This is the main Anki window and it shows the **Decks** you have in your collection. A Deck is just a group of cards. You can have as many decks as you want - although Anki struggles when you have a lot of them - but for most people, a single deck will suffice.
 
 On the top menu above there is an Add button. Click on it. It’s time we create our first card. 
 
@@ -138,22 +140,23 @@ This is where Anki can become a bit confusing, but I will demystify it for you.�
 
 Know that although Anki is a powerful piece of software, you can do without knowing most of its features and intricacies. You get the bulk of its benefits solely by using it, so you’re better off using it even when you do not understand how all of it works than never using it at all. As the saying goes, perfection is the enemy of good and for spaced repetition good is much better than none. 
 
-The first thing to understand about how Anki works is that a Card - like the flashcards you already know about - is created from a Note. When you click the ‘Add’ button, the thing you’re adding is a Note, out from which one or more cards will be created by Anki. 
+The first thing to understand about how Anki works is that a **Card** - like the flashcards you already know about - is created from a **Note**. When you click the ‘Add’ button, the thing you’re adding is a Note, out from which one or more cards will be created by Anki. 
 
-In the picture above, the Note I created has two Fields: Front and Back. 
+In the picture above, the Note I created has two **Fields**: **Front** and **Back**. 
 
 The Front is where you put your question, and the Back is where you put, you guessed it, the answer to that question. It works very much like regular flashcards. You put questions on the Front and answers on the Back. 
 
 Using an example from my Deck, here is a card that I added not too long ago:
 
-Front: Amygdala is Latin for what?
-Back: Almond 
+*Front: Amygdala is Latin for what?*
 
-When Anki deems that it is time for me to review this card, it will show me “Amygdala is Latin for what?” and I will have to answer, “Almond”. If you’re wondering why I added this to my collection, it’s because I was reading about the brain and I thought it interesting the amygdala is called that because it is shaped like an almond. I wanted to remember that interesting fact, so I added it to my Anki collection. Now I’ll never forget it. That’s the power of Anki; it puts your memory under your control.
+*Back: Almond*
+
+When Anki deems that it is time for me to review this card, it will show me *“Amygdala is Latin for what?” and I will have to answer, “Almond”. If you’re wondering why I added this to my collection, it’s because I was reading about the brain and I thought it interesting the amygdala is called that because it is shaped like an almond. I wanted to remember that interesting fact, so I added it to my Anki collection. Now I’ll never forget it. That’s the power of Anki; it puts your memory under your control.
 
 Once you put your question and answer into Anki and click on the ‘Add’ button below, Anki will pick both the Front and Back fields and use them to create a card with the Front as the question and the Back as the answer. However, Anki will only create cards that way because it has been told to do so.
 
-If you look back at the image above, there is a little option at the top titled Type. A Note Type dictates how many fields a note has and tells Anki how to use them to create cards. In our previous example, the Basic type dictates that a note has two fields, Front and Back, but you can create your own note types to suit your personal needs. 
+If you look back at the image above, there is a little option at the top titled **Type**. A **Note Type** dictates how many fields a note has and tells Anki how to use them to create cards. In our previous example, the **Basic** type dictates that a note has two fields, Front and Back, but you can create your own note types to suit your personal needs. 
 
 By default, Anki comes with two note types installed: The Basic, which we’ve already met, and the Cloze. 
 
@@ -169,11 +172,11 @@ Whereas before you had to add an answer and a question to create a card, for the
 
 In the image above, I selected two pieces of the text, “cloze note” and “two cards”. Anki, knowing that this card is of the Cloze type, will create two cards from this single note. The first card looks like this:
 
-This is a [...] that will create two cards
+*This is a [...] that will create two cards*
 
 Whereas the second one looks like this:
 
-This is a cloze note that will create [...]
+*This is a cloze note that will create [...]*
 
 To answer these cards correctly I only need to fill in the blank. 
 
@@ -185,19 +188,22 @@ This is a cloze note that will create [...] -> This is a cloze note that will cr
 
 The cloze type is very useful, as you can see. I recently used it to create four cards that test me on my knowledge of the brain’s anatomy. I wanted to learn the names of the four lobes of the brain, and to do so I created the following note:
 
-The four lobes of the brain are:
-    • {{c4::Frontal}} lobe
-    • {{c3::Parietal}} lobe
-    • {{c2::Occipital}} lobe
-    • {{c1::Temporal}} lobe
+    The four lobes of the brain are:
+    {% raw %}
+        - {{c4::Frontal}} lobe
+        - {{c3::Parietal}} lobe
+        - {{c2::Occipital}} lobe
+        - {{c1::Temporal}} lobe 
+    {% endraw %}
 
 Anki created four cards from this single note, one for each lobe. When the time comes to review one of those cards, Anki will show me:
 
-The four lobes of the brain are:
-    • Frontal lobe
-    • Parietal lobe
-    • Occipital lobe
-    • [...] lobe
+    The four lobes of the brain are:
+        - Frontal lobe
+        - Parietal lobe
+        - Occipital lobe
+        - [...] lobe
+
 And I will have to answer: Temporal lobe.
 
 It is unlikely you will ever have to create your own note types. The Basic and Cloze will cover most of your needs, and because perfection is the enemy of the good enough, trying to squeeze all efficiency out from Anki by creating your own hyper-specific types will only backfire when you find yourself not using Anki because it is too much work. 
@@ -266,7 +272,7 @@ One of the cool things about Anki is that even though it is free, it still manag
 
 With the mobile app, you can do your daily views when you would otherwise have nothing else to do but aimlessly browse the web, which I am going to guess is plenty of time.
 
-If instead of refreshing Twitter once more you instead spend the next ten minutes going through your daily review then at least those ten minutes will not have been the complete waste of time that they otherwise would have been - which is not to say that Twitter by necessity is a waste of time, as my piece on how to use Twitter productively testifies.
+If instead of refreshing Twitter once more you instead spend the next ten minutes going through your daily review then at least those ten minutes will not have been the complete waste of time that they otherwise would have been - which is not to say that Twitter by necessity is a waste of time, as my piece on [how to use Twitter productively testifies](https://www.lettucebecereal.com/articles/usingtwitterasalearningengine).
 
 Android users are in luck, as the AnkiDroid app is free. iOS users will have to spend some money to get the app, although that money directly supports the creator of Anki which is nice.
 
@@ -286,7 +292,7 @@ Yet it seems to me that opening the Anki app to find out it will take you more t
 
 Besides, even if you do not have that many cards to review on any given day, if for some unforeseen reason you miss doing your daily review, you still will have to go through those cards the day after along with any new ones that were already scheduled for that day. Each day that you miss means more cards added to the pile that you have to go through and anyone who has used Anki for a while will tell you that cards pile up faster than you expect. 
 
-There is a reason why the official Anki documentation has a special section on how to deal with missed days.
+There is a reason why the official Anki documentation has a [special section](https://docs.ankiweb.net/#/filtered-decks?id=catching-up) on how to deal with missed days.
 
 By capping the number of cards you review per day you, might miss out on all the benefits of the algorithm, but it is better to use Anki imperfectly than to not use it perfectly. If attempting perfection means you drop out of using Anki, then you’re better off settling for good enough.
 
@@ -303,7 +309,7 @@ As the saying goes, what gets tracked gets managed. If you keep a log of the day
 
 Tracking keeps you honest. That’s why calorie counting works: you can’t run from the fact that you just munched on an 800-calorie cheeseburger. 
 
-There are many approaches and apps you can use to track your daily reviews. I use Beeminder when I want to track things in my life and the iOS app Streaks also seems like a nice enough alternative. In the end, it doesn’t matter how you track this; you can use a small notebook that you carry with you every day: that’s how I track my meditation practice. What matters is that you track whether or not you have done your reviews for the day. 
+There are many approaches and apps you can use to track your daily reviews. I use [Beeminder](https://www.beeminder.com/) when I want to track things in my life and the iOS app [Streaks](https://streaksapp.com/) also seems like a nice enough alternative. In the end, it doesn’t matter how you track this; you can use a small notebook that you carry with you every day: that’s how I track my meditation practice. What matters is that you track whether or not you have done your reviews for the day. 
 
 ### Be profligate about adding cards, but also in deleting them
 
@@ -331,26 +337,29 @@ Although it might not seem like it at first glance, creating good cards is a ski
 
 For instance, suppose you create the following card:
 
-Question: What are amino acids?
+*Question: What are amino acids?*
 
-Answer: Amino acids are organic compounds that contain amine (–NH2) and carboxyl (–COOH) functional groups, along with a side chain (R group) specific to each amino acid. The key elements of an amino acid are carbon (C), hydrogen (H), oxygen (O), and nitrogen (N), although other elements are found in the side chains of certain amino acids. About 500 naturally occurring amino acids are known (though only 20 appear in the genetic code) and can be classified ….
+*Answer: Amino acids are organic compounds that contain amine (–NH2) and carboxyl (–COOH) functional groups, along with a side chain (R group) specific to each amino acid. The key elements of an amino acid are carbon (C), hydrogen (H), oxygen (O), and nitrogen (N), although other elements are found in the side chains of certain amino acids. About 500 naturally occurring amino acids are known (though only 20 appear in the genetic code) and can be …*
 
 You get the idea.
 
 There is no way you’d be able to remember all of that in one go. 
 
-To approach this particular piece of knowledge, you’d be better off by breaking things up into many cards, each containing a single thing that you need to recall. For example, you might add the following cards:
+To approach this particular piece of knowledge, you’d be better off by breaking things up into many cards, each containing a single thing that you need to recall. For example, you might add the following three cards:
 
-Question: What are the three components which together make up an amino acid?
-Answer: A carboxyl group, an amino group, and the side chain
+*Question: What are the three components which together make up an amino acid?*
 
-Question: Which four atomic elements are the key ingredients of an amino acid?
-Answer: Carbon, Hydrogen, Oxygen, and Nitrogen
+*Answer: A carboxyl group, an amino group, and the side chain*
 
-Question: How many amino acids are encoded by the DNA?
-Answer: 20
+*Question: Which four atomic elements are the key ingredients of an amino acid?*
 
-These last three cards contain the same core knowledge as the previous gigantic card, but because each one only asks for a specific, easy to handle, piece of knowledge, you will be much more successful at correctly answering them in your daily reviews.
+*Answer: Carbon, Hydrogen, Oxygen, and Nitrogen*
+
+*Question: How many amino acids are encoded by the DNA?*
+
+*Answer: 20*
+
+These cards contain the same core knowledge as the previous gigantic card, but because each one only asks for a specific, easy to handle, piece of knowledge, you will be much more successful at correctly answering them in your daily reviews.
 
 The cost of having too many badly formulated cards in your collection is that you will have a much harder time answering them, which means that they will continuously appear in your daily reviews since your failure to answer them correctly makes Anki think that you need to go over them more regularly to get them to stick in your memory. 
 
@@ -366,7 +375,10 @@ In any case, you will need to be proactive about managing the cards in your coll
 
 Add cards to your heart’s content, but do not be afraid of deleting them if that’s what’s needed.
 
-Creating effective cards is an advanced Anki skill that’s outside the scope of this post, but if you are interested in learning about it then check the end of this post to find out more. 
+
+<div style= "background-color:rgba(255,0,0,0.3); padding: 0.5em; margin: 0.5em; font-size: 1.2em;">
+Creating effective cards is an advanced Anki skill that’s outside the scope of this post, but if you are interested in learning about it then check the end of this post to find out more.
+</div>
 
 ### Create a deck that brings you joy
 
@@ -392,9 +404,10 @@ To the right of where it says ‘Options group’, click on the Manage button an
 
 You can name the new options group anything you want. I named mine Joy because that makes sense to me. 
 
-Now that you have a new options group, you need only change two options:
-    • In the Reviews tab, change the option where it says Maximum reviews/day to 20
-    • Again in the Reviews tab, change the Maximum interval to 15 days.
+Now that you have a new options group, you need only change two options:    
+
+* In the Reviews tab, change the option where it says Maximum reviews/day to 20
+* Again in the Reviews tab, change the Maximum interval to 15 days.
 
 The names are self-explanatory. The first option tells Anki to only show 20 cards a day from your Joy deck - your joy cards, whereas the second tells it that you do not want to go more than 15 days without seeing each of your joy cards. 
 
@@ -424,12 +437,12 @@ Spaced repetition software, and Anki in particular, takes care of the logistics 
 
 Making Anki a part of your life will likely be one of the most valuable decisions you can do in your life, and I hope this gentle introduction helps you take that step.
 
-If you have any questions or want some tips on how to use Anki, do not hesitate to email me at contact@joaoeira.com. I would genuinely love to help you.
+If you have any questions or want some tips on how to use Anki, do not hesitate to email me at [contact@joaoeira.com](mailto:contact@joaoeira.com). I would genuinely love to help you.
 
 # Btw...
 
 You’ve made it to the end, that’s awesome! 
 
-I am soon going to be working on a fully realized online course that will expand on this post and teach people how to master Anki and take control of their memory once and for all. If that interests you, and you want early access and give feedback during development, send $25 to paypal.me/joaoeira.
+I am soon going to be working on a fully realized online course that will expand on this post and teach people how to master Anki and take control of their memory once and for all. If that interests you, and you want early access and give feedback during development, send $25 to [paypal.me/joaoeira](http://www.paypal.me/joaoeira).
 
 This is an exclusive deal and I will only be taking around 25 people, so act fast.

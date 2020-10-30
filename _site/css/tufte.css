@@ -370,10 +370,8 @@ section {
   padding-bottom: 1rem; }
 
 ul, ol {
-  width: 45%;
-  -webkit-padding-start: 5%;
-  -webkit-padding-end: 5%;
-  list-style-type: none; }
+  width: 80%;
+  padding-left: 5%; }
 
 figure, figure img.maincolumn {
   max-width: 55%;
