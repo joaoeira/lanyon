@@ -78,15 +78,19 @@ p > a:active {
   color: #6d0000;
 }
 
-body { width: 87.5%;
+body { width: 85%;
        margin-top: 15px;
-       padding-left: 12.5%;
+       
        font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: $bg-color;
        color: $text-color;
-       max-width: 1400px;
+       
        counter-reset: sidenote-counter;
-      text-align: left;}
+      display: flex;
+    flex-flow: column;
+  margin: auto;
+// align-items: center;
+}
 
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
@@ -207,19 +211,18 @@ th, td{ font-size: 1.2rem;
 /* Basic Layout stuff --*/
 
 article { position: relative;
-          padding: 1;
-          width: 75%;} // reduced top and bottom padding by 50%
+          width: 75%;
+          align-self: center;
+        } // reduced top and bottom padding by 50%
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 
-ul,ol { 
-  width: 80%;
-  padding-left: 5%;    
-}
 
-
+ul,ol { width: 80%;
+  padding-left: 5%;
+  list-style-type: none; }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
@@ -368,8 +371,17 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .smaller { font-size: 80%;}
 //Nav and Footer styling area
 
+
+header {
+  margin-top: 1em;
+}
+
 header > nav.group, body footer {
   width: 95%;
+}
+
+header > nav.group {
+
 }
 
 nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
@@ -423,10 +435,7 @@ ul.footer-links li{
 
 //Full width page styling stuff
 
-body.full-width, .content-listing, ul.content-listing li.listing{ width: 100% !important;
-       margin-left: auto;
-       margin-right: auto;
-       padding: 0% 5%;
+body.full-width, .content-listing, ul.content-listing li.listing{ 
 
 }
 .full-width article p{

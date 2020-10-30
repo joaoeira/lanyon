@@ -222,15 +222,15 @@ p > a:active {
   color: #6d0000; }
 
 body {
-  width: 87.5%;
+  width: 85%;
   margin-top: 15px;
-  padding-left: 12.5%;
   font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #fbfbfb;
   color: #111;
-  max-width: 1400px;
   counter-reset: sidenote-counter;
-  text-align: left; }
+  display: flex;
+  flex-flow: column;
+  margin: auto; }
 
 h1 {
   font-weight: bolder;
@@ -362,8 +362,8 @@ th, td {
 /* Basic Layout stuff --*/
 article {
   position: relative;
-  padding: 1;
-  width: 75%; }
+  width: 75%;
+  align-self: center; }
 
 section {
   padding-top: 1rem;
@@ -371,7 +371,8 @@ section {
 
 ul, ol {
   width: 80%;
-  padding-left: 5%; }
+  padding-left: 5%;
+  list-style-type: none; }
 
 figure, figure img.maincolumn {
   max-width: 55%;
@@ -522,6 +523,9 @@ label.margin-toggle:not(.sidenote-number) {
 .smaller {
   font-size: 80%; }
 
+header {
+  margin-top: 1em; }
+
 header > nav.group, body footer {
   width: 95%; }
 
@@ -568,12 +572,6 @@ ul.footer-links li {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
   .credits a {
     color: #a00000; }
-
-body.full-width, .content-listing, ul.content-listing li.listing {
-  width: 100% !important;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0% 5%; }
 
 .full-width article p {
   width: 90%; }

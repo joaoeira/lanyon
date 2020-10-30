@@ -11,8 +11,11 @@
 	{% endif %}
 
     <nav class="group">
+	<!-- <div class="logo">
 		<a href="{{site.baseurl}}/"><img class="badge" src="{{site.baseurl}}/assets/img/LettuceLogo.png" alt="CH"></a>
-	{% assign pg = site.pages | sort: "weight" %}
+	</div> -->
+	
+		{% assign pg = site.pages | sort: "weight" %}
 	{% for node in pg %}
 		{% unless node.nav_exclude or node.url contains ".css" %}
 		    {% if page.url == node.url %}
@@ -22,5 +25,6 @@
 		    {% endif %}
 	    {% endunless %}
   	{% endfor %}
+	
 	</nav>
 </header>

@@ -54,7 +54,7 @@ In the first few hours of its life, it’s as if your newly created memory has j
  
 Now, to be sure, the forgetting curve, as this discovery came to be called, is an important landmark in the scientific study of memory, but it’s not a particularly useful one. We forget things over time; what a discovery! You don’t need to be a top-level scientist to come to that conclusion. It’s why we’re here in the first place!
 
-![img](/assets/howtoneverforget_images/ForgettingCurve1.png)
+![img](/assets/howtoneverforget_images/ForgettingCurve.png)
 
 But Ebbinghaus didn’t stop there.
  
@@ -406,8 +406,8 @@ You can name the new options group anything you want. I named mine Joy because t
 
 Now that you have a new options group, you need only change two options:    
 
-* In the Reviews tab, change the option where it says Maximum reviews/day to 20
-* Again in the Reviews tab, change the Maximum interval to 15 days.
+* ● In the Reviews tab, change the option where it says Maximum reviews/day to 20
+* ● Again in the Reviews tab, change the Maximum interval to 15 days.
 
 The names are self-explanatory. The first option tells Anki to only show 20 cards a day from your Joy deck - your joy cards, whereas the second tells it that you do not want to go more than 15 days without seeing each of your joy cards. 
 
