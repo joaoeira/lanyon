@@ -128,7 +128,7 @@ p .subtitle { font-style: italic;
              line-height: 1.08888888888889; }
 
 
-p, ol, ul { font-size: 1.6rem; }
+p, ol, ul { font-size: 1.3rem; }
 
 p, li { line-height: 2rem;
         margin-top: 1.4rem;
@@ -299,7 +299,6 @@ article img {
 
 @media screen and (max-width: 1000px) { p, footer,div.mathblock { font-size: 1.7rem; line-height: 2.5rem; padding-right: 0%; width: 100%;}
                                        pre code { width: 87.5%; }
-                                       ul { width: 85%; }
                                        figure { max-width: 90%; }
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
@@ -315,6 +314,7 @@ article img {
                                         }
                                                                       }
 
+                                                                    
 .marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
 
 pre, pre code, p pre code { width: 52.5%;
