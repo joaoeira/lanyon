@@ -363,6 +363,9 @@ th, td {
 article.group {
   width: 50%; }
 
+.full-width article {
+  width: 60%; }
+
 header {
   margin-top: 1em;
   width: 60%; }
@@ -423,6 +426,9 @@ article img {
 
   .full-width ul {
     width: 100%; }
+
+  .full-width article {
+    width: 80%; }
 
   figure {
     max-width: 90%; }
@@ -570,9 +576,6 @@ ul.footer-links li {
   font-family: "Gill Sans", "Gill Sans MT", "Lato", Calibri, sans-serif; }
   .credits a {
     color: #a00000; }
-
-.full-width article {
-  width: 60%; }
 
 .full-width ul, ol {
   list-style-type: none; }

@@ -212,6 +212,10 @@ article.group {
           width: 50%
         } // reduced top and bottom padding by 50%
 
+.full-width article {
+  width: 60%;
+}
+
 header {
   margin-top: 1em;
   width: 60%;
@@ -302,6 +306,7 @@ article img {
                                        pre code { width: 87.5%; }
                                        ul { width: 85%; }
                                        .full-width ul {width: 100%}
+                                       .full-width article {width: 80%;}
                                        figure { max-width: 90%; }
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
@@ -433,13 +438,6 @@ ul.footer-links li{
 
 body.full-width, .content-listing, ul.content-listing li.listing{ 
 
-}
-// .full-width article p{
-//   width: 90%;
-// }
-
-.full-width article {
-  width: 60%;
 }
 
 .full-width ul,ol {
