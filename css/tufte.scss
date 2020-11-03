@@ -438,10 +438,15 @@ ul.footer-links li{
 body.full-width, .content-listing, ul.content-listing li.listing{ 
 
 }
-.full-width article p{
-  width: 90%;
-}
+// .full-width article p{
+//   width: 90%;
+// }
 
+.full-width article {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
 
 h1.content-listing-header{
   font-style: normal;

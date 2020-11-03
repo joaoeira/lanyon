@@ -405,8 +405,10 @@ article img {
 
 @media screen and (max-width: 800px) {
   p, footer, div.mathblock {
-    width: 90%;
-    font-size: 1.7rem; }
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+    padding-right: 0%;
+    width: 100%; }
 
   pre code {
     width: 87.5%; }
@@ -573,8 +575,10 @@ ul.footer-links li {
   .credits a {
     color: #a00000; }
 
-.full-width article p {
-  width: 90%; }
+.full-width article {
+  display: flex;
+  justify-content: center;
+  width: 100%; }
 
 h1.content-listing-header {
   font-style: normal;

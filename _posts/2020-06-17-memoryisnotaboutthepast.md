@@ -17,8 +17,6 @@ Our memory is a crucial aspect of our cognition, and we often bemoan when it fai
 
 <!--more-->
 
-{% include substack.html %}
-
 To remember the past seems like an obvious boon to our ability to comport ourselves in the world. The student wouldn't have failed the exam if his memory was flawless, and certainly the husband would have been in less trouble - perhaps even have a happy relationship - were he not so forgetful. Yet despite these obvious advantages, our memory is, nonetheless, faulty. It seems like a patently evident design flaw that this is the case. Remembering is good. Forgetting is bad. Our memory regularly forgets. Therefore, our memory is flawed. Away to the trash can does our memory go. 
 
 Having recognized the failure of our memory, we say to it: 

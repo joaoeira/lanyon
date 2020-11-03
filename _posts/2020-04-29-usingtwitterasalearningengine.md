@@ -13,8 +13,6 @@ This place exists. It’s called Twitter.
 
 <!--more-->
 
-{% include substack.html %}
-
 Twitter is better known for having wrecked our chances of ever getting flying cars and for destroying democracy, but those who focus on such tired talking points miss the point of what makes Twitter such a unique place. In the old days, communities were built around message boards. If you liked video games, you had to go to one such message board if you wanted to talk with people who liked games as much as you did. But these message boards were insular. Each community was built around a single topic, which meant your many interests could only be satisfied by visiting different message boards.
 
 And this posed a problem. How were you to find the place where ‘your people’ hung out? Suppose you had taken an interest in blacksmithing. Where do all the blacksmiths hang out? How are  you supposed to find that out? The cost to finding these communities was immense. 
