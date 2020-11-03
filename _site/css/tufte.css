@@ -230,7 +230,8 @@ body {
   display: flex;
   flex-flow: column;
   margin: auto;
-  align-items: center; }
+  align-items: center;
+  width: 60%; }
 
 h1 {
   font-weight: bolder;
@@ -263,7 +264,7 @@ p .subtitle {
   line-height: 1.08888888888889; }
 
 p, ol, ul {
-  font-size: 1.3rem; }
+  font-size: 1.6rem; }
 
 p, li {
   line-height: 2rem;
@@ -361,25 +362,16 @@ th, td {
 /* -- End of Table Styling section --*/
 /* Basic Layout stuff --*/
 article.group {
-  width: 50%; }
-
-.full-width article {
-  width: 60%; }
-
-header {
-  margin-top: 1em;
-  width: 60%; }
+  width: 80%; }
 
 header > nav.group, body footer {
-  width: 95%; }
+  display: flex; }
 
 section {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
 ul, ol {
-  width: 80%;
-  padding-left: 5%;
   list-style-type: none; }
 
 figure, figure img.maincolumn {
@@ -411,7 +403,7 @@ article img {
   margin-right: auto;
   width: 80%; }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   p, footer, div.mathblock {
     font-size: 1.7rem;
     line-height: 2.5rem;
@@ -423,12 +415,6 @@ article img {
 
   ul {
     width: 85%; }
-
-  .full-width ul {
-    width: 100%; }
-
-  .full-width article {
-    width: 80%; }
 
   figure {
     max-width: 90%; }
@@ -443,9 +429,9 @@ article img {
     padding-right: 5%; }
 
   article.group {
-    width: 80%; }
+    width: 100%; }
 
-  header {
+  body {
     width: 80%; } }
 .marginnote code, .sidenote code {
   font-size: 1rem; }
@@ -547,12 +533,7 @@ header > nav a {
   color: #a00000;
   padding-top: 1.5rem;
   text-decoration: none;
-  display: inline-block;
-  float: left;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-right: 2rem;
-  vertical-align: baseline; }
+  padding-right: 2rem; }
 
 header > nav a img {
   height: 5rem;
