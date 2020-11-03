@@ -78,18 +78,16 @@ p > a:active {
   color: #6d0000;
 }
 
-body { width: 85%;
-       margin-top: 15px;
-       
-       font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-       background-color: $bg-color;
-       color: $text-color;
-       
-       counter-reset: sidenote-counter;
-      display: flex;
+body { 
+    margin-top: 15px;
+    font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    background-color: $bg-color;
+    color: $text-color;
+    counter-reset: sidenote-counter;
+    display: flex;
     flex-flow: column;
-  margin: auto;
-// align-items: center;
+    margin: auto;
+    align-items: center;
 }
 
 // --------- Typography stuff -----------//
@@ -210,10 +208,23 @@ th, td{ font-size: 1.2rem;
 
 /* Basic Layout stuff --*/
 
-article { position: relative;
-          width: 75%;
-          align-self: center;
+article.group { 
+          width: 50%
         } // reduced top and bottom padding by 50%
+
+header {
+  margin-top: 1em;
+  width: 60%;
+}
+
+header > nav.group, body footer {
+  width: 95%;
+}
+
+header > nav.group {
+
+}
+        
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
@@ -298,8 +309,11 @@ article img {
                                                                           padding-left: 5%;
                                                                           padding-right: 5%;
                                                                         }
-                                        article{
-                                          width: 100%;
+                                        article.group{
+                                          width: 80%;
+                                        }
+                                        header{
+                                          width: 80%;
                                         }
                                                                       }
 
@@ -308,8 +322,6 @@ article img {
 pre, pre code, p pre code { width: 52.5%;
            padding-left: 2.5%;
            overflow-x: auto; }
-
-.fullwidth, li.listing div{ max-width: 90%; }
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
@@ -325,7 +337,6 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 @media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: $contrast-color; }
                             .sidenote, .marginnote { display: none; }
-                            .substack{display:none;}
                             .margin-toggle:checked + .sidenote,
                             .margin-toggle:checked + .marginnote { display: block;
                                                                    float: left;
@@ -353,9 +364,6 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             img:not(.badge) { 
                               width: 100%;
                               max-width: 100%;} 
-                            .substack-embed {
-                              max-width: 70%;
-                            }
                           }
 
 @media (max-width: 600px){
@@ -371,19 +379,6 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .contrast { color: $contrast-color;}
 .smaller { font-size: 80%;}
 //Nav and Footer styling area
-
-
-header {
-  margin-top: 1em;
-}
-
-header > nav.group, body footer {
-  width: 95%;
-}
-
-header > nav.group {
-
-}
 
 nav.group a.active:before{ content:"\0003c\000a0";} // escaped unicode for the carats and then a space on active menu links
 nav.group a.active:after{ content:"\000a0\0003e" ;}
@@ -444,10 +439,13 @@ body.full-width, .content-listing, ul.content-listing li.listing{
 // }
 
 .full-width article {
-  display: flex;
-  justify-content: center;
-  width: 100%;
+  width: 60%;
 }
+
+.full-width ul,ol {
+  list-style-type: none; 
+}
+
 
 h1.content-listing-header{
   font-style: normal;
@@ -649,11 +647,8 @@ hr.slender {
 }
 /*-- End of Icomoon icon font section --*/
 
-.substack{
-  text-align: center;
-  font-size: 85%;
-}
-
 ::selection {
   background-color: rgba(160,0,0,0.3);
 }
+
+// Insight Porn CTAs

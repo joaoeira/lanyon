@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2020 08:01:56 -0500</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2020 08:01:56 -0500</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2020 08:31:16 -0500</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2020 08:31:16 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -123,8 +123,6 @@
 
 &lt;p&gt;This task of keeping track of which memory has been allocated and which can be safely returned is tiresome, complex, and easy to screw up. Thankfully, coders are in the job of automating boring and hard tasks and it is therefore not surprising that they would write special programs whose job it is to automatically manage this task. These special programs are called garbage collectors, garbage being that allocated memory that is no longer being used.&lt;/p&gt;
 
-&lt;p&gt;&lt;label for=&quot;marginnote1&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;In gifting agency to forgetting I do not mean to imply that forgetting is a purposeful task for which there is a dedicated cognitive system, that there is a garbage collector module. It is just helpful to think about it that way. &lt;/span&gt;&lt;/p&gt;
-
 &lt;p&gt;Forgetting can therefore be thought as a form of garbage collection, rummaging around the mind and identifying those memories for which cognitive resources have been allocated to decide whether or not they are worthy of these resources. If a memory is deemed unworthy, it is nipped in the bud, thrown away so that it no longer occupies valuable cognitive space. If it’s deemed worthy, well then it sticks around, until it fails to pass the worthiness test.&lt;/p&gt;
 
 &lt;p&gt;But then the question arises: By which standards should that decision be made?&lt;/p&gt;
@@ -186,8 +184,6 @@
 &lt;p&gt;The rubber of this type of reasoning hits the road when we think of the spacing effect. The spacing effect is the empirically more-than-validated observation that the longer the time between two recall events, the stronger the memory becomes. It’s why cramming is such a poor studying strategy, you’re not giving it enough time to let the spacing effect do its magic. It’s almost paradoxical. You have to let time pass, and thus let memory weaken, so that after it’s called upon it becomes better rooted within your memory. On one hand, the fact that it has been called upon makes frequency work in its favor, but then letting time pass works against it.&lt;/p&gt;
 
 &lt;p&gt;Why this should be the case is not something I’ve been able to come up with an intuitive enough explanation as I think I have the other two. The best I’ve come up with is to think of an incident that has happened many times either in quick succession or where some time has passed between each occurrence. In the first, massed example, if you were to predict when the next occurrence was going to happen you’d predict it would happen close to the last time it happened rather than a few years afterward. Therefore, the more time passes without the event occurring the less valuable the memory of it becomes. On the other hand, in the spaced example you’d predict that it will likely take some time until the event happens again, so you want to continue storing that information for longer. Hence the spacing effect.&lt;/p&gt;
-
-&lt;p&gt;&lt;label for=&quot;marginnote2&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote2&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;This analysis could likely be much improved upon by using the vast amounts of data provided by social media, for example Twitter. One way I imagine this would work is to use what people have tweeted over a period of time, work out the number of times certain words were used and the time interval between each use, and then ask what relationship is between that length of time and how much we’d have to wait for that word to again be used in a tweet. &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Support for this interpretation is provided in &lt;a href=&quot;https://psycnet.apa.org/record/2000-00111-034&quot;&gt;Anderson and Schooler (2000)&lt;/a&gt;. They use the headlines of 730 editions of the &lt;em&gt;New York Times&lt;/em&gt;, along with other data, to see how the past history of use of a piece of information predicts the probability that it will again be called upon at a future time. For example, if a word is used in a headline twice in 100 days, they ask how the length of time between each occurrence influences the probability that it will be used on the 101st day. As in the intuitive explanation above, they found that if the time interval between two occurrences is short, then it’s more likely that the word will appear sooner, rather than latter, and vice-versa.&lt;/p&gt;
 
@@ -259,8 +255,6 @@ You were shut off from like minded people simply because you did not know where 
 
 &lt;p&gt;It can be tough for those on the outside to fire up a Twitter account and understand what it is that makes it worth their time. The very idea of following people so that you can read what they write in 280-character chunks seems dumb. It certainly doesn’t look like any other social media platform, and there’s a sizable gap between when one starts using it and getting enough of an understanding to use it well.&lt;/p&gt;
 
-&lt;p&gt;&lt;label for=&quot;marginnote 4&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote 4&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Note that my focus here is not to give you advice on how to use Twitter as a participant, something that I do not have much experience with. In message board parlance, when it comes to Twitter, I am mostly a lurker. &lt;/span&gt;Which is why I am writing this. I want to get more people to use Twitter, and those who already do so to use it better.&lt;/p&gt;
-
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -269,7 +263,7 @@ You were shut off from like minded people simply because you did not know where 
 
 &lt;p&gt;&lt;strong&gt;You are the one in control over who has permission to put things in front of you.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Putting ads to the side, the only tweets that you see are the ones the people you follow put there. &lt;label for=&quot;marginnote tweet&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote tweet&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;Retweets are tweets from other people that someone you follow chose to put in front of you, &lt;/span&gt; And that simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous.&lt;/p&gt;
+&lt;p&gt;Putting ads to the side, the only tweets that you see are the ones the people you follow put there (Retweets are tweets from other people that someone you follow chose to put in front of you). That simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous.&lt;/p&gt;
 
 &lt;p&gt;If the main action is in who you follow, the question beckons: Whom should you follow?&lt;/p&gt;
 
@@ -329,9 +323,9 @@ You were shut off from like minded people simply because you did not know where 
 &lt;hr /&gt;
 &lt;p&gt;Interesting people often have lots of interests. Some of them do not overlap neatly. I am sure you identify with this dilemma (you are an interesting person, are you not?).&lt;/p&gt;
 
-&lt;p&gt;I am a bit weary of promoting this advice since Twitter’s interface for handling lists is a monumental piece of flaming hot garbage, but separating the accounts you follow into different lists based on why you follow them can help make your experience smoother and more manageable.&lt;/p&gt;
+&lt;p&gt;I am a bit weary of promoting this advice since Twitter’s interface for handling lists is a monumental piece of flaming hot garbage, but separating the accounts you follow into different lists based on why you follow them can help make your experience smoother and more manageable. It also allows you to cleave off entire communities from your life when you deem them unworthy of your time. This happened to me after the 2016 US Presidential election, which destroyed the minds of many fantasy and science fiction authors I enjoyed following. Thankfully, I had siloed off that community into a separate list which I have since then not opened.&lt;/p&gt;
 
-&lt;p&gt;&lt;label for=&quot;marginnote 2&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote 2&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;It also allows you to cleave off entire communities from your life when you deem them unworthy of your time. This happened to me after the 2016 US Presidential election, which destroyed the minds of many fantasy and science fiction authors I enjoyed following. Thankfully, I had siloed off that community into a separate list which I have since then not opened. &lt;/span&gt; Videogames have held my interest since I was a little kid playing Red Alert 2 on my father’s computer, and from then on I have followed the industry with interest.  Game developers marry the technical, the pragmatic, and the artistic in a way that is appealing to me. However, the videogame Twitter scene has a different vibe from the economists, techies, and weirdos that I follow on my main Twitter feed. Siloing them off into different lists allows me to keep tabs on what these communities are talking about and sharing without suffering from much whiplash.&lt;/p&gt;
+&lt;p&gt;Videogames have held my interest since I was a little kid playing Red Alert 2 on my father’s computer, and from then on I have followed the industry with interest.  Game developers marry the technical, the pragmatic, and the artistic in a way that is appealing to me. However, the videogame Twitter scene has a different vibe from the economists, techies, and weirdos that I follow on my main Twitter feed. Siloing them off into different lists allows me to keep tabs on what these communities are talking about and sharing without suffering from much whiplash.&lt;/p&gt;
 
 &lt;h2 id=&quot;take-periodic-breaks&quot;&gt;Take periodic breaks.&lt;/h2&gt;
 &lt;hr /&gt;
@@ -343,8 +337,6 @@ You were shut off from like minded people simply because you did not know where 
 
 &lt;p&gt;As time passes, it becomes harder not to become embroiled with the idiosyncratic expectations and rules of Twitter. It’s not that we forget there’s a world outside of it, it’s that we mistake it for the world. Because it’s all we see, we think it’s all there is. The latest storm to take over Twitter is confused for something that people, real people, flesh and blood people, actually care about. The truth of the matter is that very few of them know anything about what goes on there.&lt;/p&gt;
 
-&lt;p&gt;&lt;label for=&quot;marginnote 3&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote 3&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;The only person I know close to me who also is a heavy user of Twitter is my mother, and she’s a shitposter. &lt;/span&gt;&lt;/p&gt;
-
 &lt;p&gt;By taking periodic breaks from Twitter you’ll be reminded of that, and when you return you will do so with clearer eyes that are better able to separate what matters from what doesn’t.&lt;/p&gt;
 
 &lt;h2 id=&quot;once-in-a-while-purge&quot;&gt;Once in a while, purge.&lt;/h2&gt;
@@ -353,7 +345,7 @@ You were shut off from like minded people simply because you did not know where 
 
 &lt;p&gt;An important part of curating your Twitter feed is being on the lookout for these bad apples and rooting them out. And even in this you will not be entirely successful. It’s easy to unfollow someone who turns out to be a deeply racist and misogynistic alt-right troll, but most people are not that egregious in their unpleasantness. Most people don’t call that much attention onto themselves. They’re boring, sure, but they’re boring in a way that you just scroll by their tweets without noticing they’re there. These people might have passed some initial filter which made you follow them, but since then they’ve added little value to your Twitter experience. It’s not that they are fundamentally uninteresting people, it’s just that they’re uninteresting to you. You keep following them because they’ve never given you a reason to actively put in the effort of unfollowing them.&lt;/p&gt;
 
-&lt;p&gt;&lt;label for=&quot;marginnote 4&quot; class=&quot;margin-toggle&quot;&gt; ⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;marginnote 4&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;It might be weird to think of it as something I have to do, but remember that I am trying to turn Twitter into something that I value a lot and going through my tweets is how I extract that value &lt;/span&gt; I don’t presume to know what’s the limit on the number of people you should follow on Twitter. At the time of this writing I follow 629 accounts and sometimes find myself overwhelmed with the amount of tweets I have to go through.  Whatever the number, over time you will accumulate leeches whose tweets suck away the vitality of your feed. Think of purging the people you follow as picking weeds. You want your garden to grow into its full, lush, potential.&lt;/p&gt;
+&lt;p&gt;I don’t presume to know what’s the limit on the number of people you should follow on Twitter. At the time of this writing I follow 629 accounts and sometimes find myself overwhelmed with the amount of tweets I have to go through.  Whatever the number, over time you will accumulate leeches whose tweets suck away the vitality of your feed. Think of purging the people you follow as picking weeds. You want your garden to grow into its full, lush, potential.&lt;/p&gt;
 
 &lt;p&gt;Open up the list of accounts you’re following, and for each one ask yourself whether it has proven itself worthy of the permission to put things in your timeline that you’ve given it. You do not need to be sanguine about it. You can give people second chances. But going on a purge once in a while is a way to remind yourself that your permission is conditional, not absolute. And as you giveth away, you can also taketh away.&lt;/p&gt;
 
@@ -457,7 +449,7 @@ You were shut off from like minded people simply because you did not know where 
 
 &lt;p&gt;&lt;strong&gt;3 -&lt;/strong&gt; Save it&lt;/p&gt;
 
-&lt;p&gt;What this bookmarklet does is replace the URL of the page you are in (which would be the page of the paper you want to read) with the the Sci-Hub version of it. Instead of having to copy the URL, travel to the Sci-Hub page, and paste it there, this bookmarklet does all of that automatically. You just click on the bookmark and it will take you there&lt;label for=&quot;sci-hub.tw&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;sci-hub.tw&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;sidenote&quot;&gt;If for some reason the website is blocked, substitute where it is written ‘sci-hub.se’ with ‘sci-hub.tw’ &lt;/span&gt; .&lt;/p&gt;
+&lt;p&gt;What this bookmarklet does is replace the URL of the page you are in (which would be the page of the paper you want to read) with the the Sci-Hub version of it. Instead of having to copy the URL, travel to the Sci-Hub page, and paste it there, this bookmarklet does all of that automatically. You just click on the bookmark and it will take you there (If for some reason the website is blocked, substitute where it is written ‘sci-hub.se’ with ‘sci-hub.tw’)&lt;/p&gt;
 
 &lt;p&gt;For almost any paper, Sci-hub will be enough. The remaining tips I have will help if by an unlucky draw of the cards the paper you want to read is one of the few that Sci-Hub does not have.&lt;/p&gt;
 

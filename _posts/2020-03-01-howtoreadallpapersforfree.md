@@ -79,7 +79,7 @@ _javascript:location.href%20=%20location.origin.replace(/^https/,%20'http')%20+%
 
 **3 -** Save it
 
-What this bookmarklet does is replace the URL of the page you are in (which would be the page of the paper you want to read) with the the Sci-Hub version of it. Instead of having to copy the URL, travel to the Sci-Hub page, and paste it there, this bookmarklet does all of that automatically. You just click on the bookmark and it will take you there{% sidenote "sci-hub.tw" "If for some reason the website is blocked, substitute where it is written 'sci-hub.se' with 'sci-hub.tw'" %} . 
+What this bookmarklet does is replace the URL of the page you are in (which would be the page of the paper you want to read) with the the Sci-Hub version of it. Instead of having to copy the URL, travel to the Sci-Hub page, and paste it there, this bookmarklet does all of that automatically. You just click on the bookmark and it will take you there (If for some reason the website is blocked, substitute where it is written 'sci-hub.se' with 'sci-hub.tw')
 
 For almost any paper, Sci-hub will be enough. The remaining tips I have will help if by an unlucky draw of the cards the paper you want to read is one of the few that Sci-Hub does not have.
 

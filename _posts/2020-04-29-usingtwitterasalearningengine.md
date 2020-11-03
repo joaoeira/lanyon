@@ -36,8 +36,6 @@ Which is why everyone should use it.
 
 It can be tough for those on the outside to fire up a Twitter account and understand what it is that makes it worth their time. The very idea of following people so that you can read what they write in 280-character chunks seems dumb. It certainly doesn’t look like any other social media platform, and there’s a sizable gap between when one starts using it and getting enough of an understanding to use it well.
 
-{% marginnote "marginnote 4" "Note that my focus here is not to give you advice on how to use Twitter as a participant, something that I do not have much experience with. In message board parlance, when it comes to Twitter, I am mostly a lurker." %}Which is why I am writing this. I want to get more people to use Twitter, and those who already do so to use it better.
-
 <br/><br/>
 
 --- 
@@ -46,7 +44,7 @@ Any proper use of Twitter starts with this fundamental principle:
 
 **You are the one in control over who has permission to put things in front of you.**
 
-Putting ads to the side, the only tweets that you see are the ones the people you follow put there. {% marginnote "marginnote tweet" "Retweets are tweets from other people that someone you follow chose to put in front of you," %} And that simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous. 
+Putting ads to the side, the only tweets that you see are the ones the people you follow put there (Retweets are tweets from other people that someone you follow chose to put in front of you). That simple fact is what will determine how much value you get from Twitter. Curating the list of people you follow, following the right people, is what will make or break your Twitter experience. If your timeline is filled with junk, then you might as well don’t use it, but if you are careful in choosing who to follow the payoff is enormous. 
 
 If the main action is in who you follow, the question beckons: Whom should you follow? 
 
@@ -106,9 +104,9 @@ The mute function acts like a shield against this. Just add “Trump” to it an
 ---
 Interesting people often have lots of interests. Some of them do not overlap neatly. I am sure you identify with this dilemma (you are an interesting person, are you not?).
 
-I am a bit weary of promoting this advice since Twitter’s interface for handling lists is a monumental piece of flaming hot garbage, but separating the accounts you follow into different lists based on why you follow them can help make your experience smoother and more manageable. 
+I am a bit weary of promoting this advice since Twitter’s interface for handling lists is a monumental piece of flaming hot garbage, but separating the accounts you follow into different lists based on why you follow them can help make your experience smoother and more manageable. It also allows you to cleave off entire communities from your life when you deem them unworthy of your time. This happened to me after the 2016 US Presidential election, which destroyed the minds of many fantasy and science fiction authors I enjoyed following. Thankfully, I had siloed off that community into a separate list which I have since then not opened.
 
-{% marginnote "marginnote 2" "It also allows you to cleave off entire communities from your life when you deem them unworthy of your time. This happened to me after the 2016 US Presidential election, which destroyed the minds of many fantasy and science fiction authors I enjoyed following. Thankfully, I had siloed off that community into a separate list which I have since then not opened." %} Videogames have held my interest since I was a little kid playing Red Alert 2 on my father’s computer, and from then on I have followed the industry with interest.  Game developers marry the technical, the pragmatic, and the artistic in a way that is appealing to me. However, the videogame Twitter scene has a different vibe from the economists, techies, and weirdos that I follow on my main Twitter feed. Siloing them off into different lists allows me to keep tabs on what these communities are talking about and sharing without suffering from much whiplash.
+Videogames have held my interest since I was a little kid playing Red Alert 2 on my father’s computer, and from then on I have followed the industry with interest.  Game developers marry the technical, the pragmatic, and the artistic in a way that is appealing to me. However, the videogame Twitter scene has a different vibe from the economists, techies, and weirdos that I follow on my main Twitter feed. Siloing them off into different lists allows me to keep tabs on what these communities are talking about and sharing without suffering from much whiplash.
 
 ## Take periodic breaks. 
 ---
@@ -120,8 +118,6 @@ These design choices, made to get you to continually use the website, are furthe
 
 As time passes, it becomes harder not to become embroiled with the idiosyncratic expectations and rules of Twitter. It’s not that we forget there’s a world outside of it, it’s that we mistake it for the world. Because it’s all we see, we think it’s all there is. The latest storm to take over Twitter is confused for something that people, real people, flesh and blood people, actually care about. The truth of the matter is that very few of them know anything about what goes on there. 
 
-{% marginnote "marginnote 3" "The only person I know close to me who also is a heavy user of Twitter is my mother, and she’s a shitposter." %}
-
 By taking periodic breaks from Twitter you’ll be reminded of that, and when you return you will do so with clearer eyes that are better able to separate what matters from what doesn’t.
 
 ## Once in a while, purge.
@@ -130,7 +126,7 @@ Curation is a lossy process. Your attempt at only allowing interesting people in
 
 An important part of curating your Twitter feed is being on the lookout for these bad apples and rooting them out. And even in this you will not be entirely successful. It’s easy to unfollow someone who turns out to be a deeply racist and misogynistic alt-right troll, but most people are not that egregious in their unpleasantness. Most people don’t call that much attention onto themselves. They’re boring, sure, but they’re boring in a way that you just scroll by their tweets without noticing they’re there. These people might have passed some initial filter which made you follow them, but since then they’ve added little value to your Twitter experience. It’s not that they are fundamentally uninteresting people, it’s just that they’re uninteresting to you. You keep following them because they’ve never given you a reason to actively put in the effort of unfollowing them.
 
-{% marginnote "marginnote 4" "It might be weird to think of it as something I have to do, but remember that I am trying to turn Twitter into something that I value a lot and going through my tweets is how I extract that value" %} I don’t presume to know what’s the limit on the number of people you should follow on Twitter. At the time of this writing I follow 629 accounts and sometimes find myself overwhelmed with the amount of tweets I have to go through.  Whatever the number, over time you will accumulate leeches whose tweets suck away the vitality of your feed. Think of purging the people you follow as picking weeds. You want your garden to grow into its full, lush, potential.
+I don’t presume to know what’s the limit on the number of people you should follow on Twitter. At the time of this writing I follow 629 accounts and sometimes find myself overwhelmed with the amount of tweets I have to go through.  Whatever the number, over time you will accumulate leeches whose tweets suck away the vitality of your feed. Think of purging the people you follow as picking weeds. You want your garden to grow into its full, lush, potential.
 
 Open up the list of accounts you’re following, and for each one ask yourself whether it has proven itself worthy of the permission to put things in your timeline that you’ve given it. You do not need to be sanguine about it. You can give people second chances. But going on a purge once in a while is a way to remind yourself that your permission is conditional, not absolute. And as you giveth away, you can also taketh away.
 

@@ -222,7 +222,6 @@ p > a:active {
   color: #6d0000; }
 
 body {
-  width: 85%;
   margin-top: 15px;
   font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #fbfbfb;
@@ -230,7 +229,8 @@ body {
   counter-reset: sidenote-counter;
   display: flex;
   flex-flow: column;
-  margin: auto; }
+  margin: auto;
+  align-items: center; }
 
 h1 {
   font-weight: bolder;
@@ -360,10 +360,15 @@ th, td {
 
 /* -- End of Table Styling section --*/
 /* Basic Layout stuff --*/
-article {
-  position: relative;
-  width: 75%;
-  align-self: center; }
+article.group {
+  width: 50%; }
+
+header {
+  margin-top: 1em;
+  width: 60%; }
+
+header > nav.group, body footer {
+  width: 95%; }
 
 section {
   padding-top: 1rem;
@@ -431,8 +436,11 @@ article img {
     padding-left: 5%;
     padding-right: 5%; }
 
-  article {
-    width: 100%; } }
+  article.group {
+    width: 80%; }
+
+  header {
+    width: 80%; } }
 .marginnote code, .sidenote code {
   font-size: 1rem; }
 
@@ -440,9 +448,6 @@ pre, pre code, p pre code {
   width: 52.5%;
   padding-left: 2.5%;
   overflow-x: auto; }
-
-.fullwidth, li.listing div {
-  max-width: 90%; }
 
 .full-width .sidenote, .full-width .sidenote-number, .full-width .marginnote {
   display: none; }
@@ -470,9 +475,6 @@ label.margin-toggle:not(.sidenote-number) {
     color: #a00000; }
 
   .sidenote, .marginnote {
-    display: none; }
-
-  .substack {
     display: none; }
 
   .margin-toggle:checked + .sidenote,
@@ -513,10 +515,7 @@ label.margin-toggle:not(.sidenote-number) {
 
   img:not(.badge) {
     width: 100%;
-    max-width: 100%; }
-
-  .substack-embed {
-    max-width: 70%; } }
+    max-width: 100%; } }
 @media (max-width: 600px) {
   .badge {
     display: none; } }
@@ -527,12 +526,6 @@ label.margin-toggle:not(.sidenote-number) {
 
 .smaller {
   font-size: 80%; }
-
-header {
-  margin-top: 1em; }
-
-header > nav.group, body footer {
-  width: 95%; }
 
 nav.group a.active:before {
   content: "\0003c\000a0"; }
@@ -579,9 +572,10 @@ ul.footer-links li {
     color: #a00000; }
 
 .full-width article {
-  display: flex;
-  justify-content: center;
-  width: 100%; }
+  width: 60%; }
+
+.full-width ul, ol {
+  list-style-type: none; }
 
 h1.content-listing-header {
   font-style: normal;
@@ -747,9 +741,5 @@ hr.slender {
   content: "\e60e"; }
 
 /*-- End of Icomoon icon font section --*/
-.substack {
-  text-align: center;
-  font-size: 85%; }
-
 ::selection {
   background-color: rgba(160, 0, 0, 0.3); }
