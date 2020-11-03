@@ -416,6 +416,9 @@ article img {
   ul {
     width: 85%; }
 
+  .full-width ul {
+    width: 100%; }
+
   figure {
     max-width: 90%; }
 
@@ -593,7 +596,8 @@ li.listing hr {
   margin: 0; }
 
 li.listing {
-  margin: 0; }
+  margin: 0;
+  padding-right: 0px; }
   li.listing p {
     width: 100%; }
 

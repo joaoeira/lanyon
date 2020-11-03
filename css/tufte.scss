@@ -290,6 +290,7 @@ article img {
 @media screen and (max-width: 800px) { p, footer,div.mathblock { font-size: 1.7rem; line-height: 2.5rem; padding-right: 0%; width: 100%;}
                                        pre code { width: 87.5%; }
                                        ul { width: 85%; }
+                                       .full-width ul {width: 100%}
                                        figure { max-width: 90%; }
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
@@ -468,6 +469,7 @@ li.listing {
   & p{
     width: 100%
   }
+  padding-right: 0px;
 }
 
 .listing h3 {
