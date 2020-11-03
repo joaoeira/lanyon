@@ -287,7 +287,7 @@ article img {
 
 // div.table-wrapper { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
 
-@media screen and (max-width: 800px) { p, footer,div.mathblock { width: 90%; font-size: 1.7rem; }
+@media screen and (max-width: 800px) { p, footer,div.mathblock { font-size: 1.7rem; line-height: 2.5rem; padding-right: 0%; width: 100%;}
                                        pre code { width: 87.5%; }
                                        ul { width: 85%; }
                                        figure { max-width: 90%; }

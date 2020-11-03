@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to Never Forget Again: A Gentle Introduction to Spaced Repetition and Anki"
-summary:
+title: "How to Never Forget: A Gentle Introduction to Anki"
+summary: "Where would you be in life if you did not forget? Although a perfect memory does not exist, science has long known how to make memories stronger. In this essay I gently introduce the science of spaced repetition and Anki, the app that will help you make use of it."
 author: João Eira
 image: /assets/img/LettuceLogo.png
 comments: false
@@ -375,8 +375,7 @@ In any case, you will need to be proactive about managing the cards in your coll
 
 Add cards to your heart’s content, but do not be afraid of deleting them if that’s what’s needed.
 
-
-<div style= "background-color:rgba(255,0,0,0.3); padding: 0.5em; margin: 0.5em; font-size: 1.2em;">
+<div style= "background-color:rgba(255,0,0,0.3); padding: 0.5em; margin: 0.5em; font-size: 1.2em; margin-top: 1em;">
 Creating effective cards is an advanced Anki skill that’s outside the scope of this post, but if you are interested in learning about it then check the end of this post to find out more.
 </div>
 
