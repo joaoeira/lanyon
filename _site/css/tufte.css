@@ -364,7 +364,7 @@ th, td {
 article.group {
   width: 80%; }
 
-header > nav.group, body footer {
+header > nav.group, body {
   display: flex; }
 
 section {
