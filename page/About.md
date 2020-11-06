@@ -8,18 +8,20 @@ weight: 200
     .group h1 {
         display:none;
     }
-    article img {
+
+    /* article img {
         width: 250px;
         height: 250px;
         border-radius: 50%;
         margin-top: 2em;
-    }
+    } */
     .group h2 {
         text-align: center;
+        margin-top: 0px;
     }
 </style>
 
-![](/assets/img/TwitterProfilePic.jpg)
+<figure style = "max-width: 100%; margin-bottom: 0em;"><img src="/assets/img/TwitterProfilePic.jpg" style= "width: 250px; height: 250px; border-radius: 50%; margin-top: 2em;"></figure>
 
 ## Hi, I'm João
 
