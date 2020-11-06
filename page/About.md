@@ -23,7 +23,7 @@ weight: 200
 
 ## Hi, I'm João
 
-The best way I've found to describe myself is as a lover of books, of learning and of life are really all the same thing. 
+The best way I've found to describe myself is as a lover of books, of learning, and of life, which in the end are really all the same thing. 
 
 I run <a href="https://superpoweredself.com">Superpowered Self</a>, the weekly newsletter for those who work with their mind and want to make the most of it.
 
