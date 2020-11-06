@@ -5,6 +5,7 @@ title: Lettuce Be Cereal
 #<br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
 ---
 
+
   <!---<h1 class="content-listing-header sans">Articles</h1> -->
   <ul class="content-listing ">
     {% for post in site.posts %}      
@@ -13,8 +14,7 @@ title: Lettuce Be Cereal
           
           <div>{{ post.excerpt }}</div> 
         </li>
-        <hr class="slender">
     {% endfor %}
   </ul>
   
-
+{% include insightporn_endpost_cta.html %}
