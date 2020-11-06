@@ -83,6 +83,8 @@ What this bookmarklet does is replace the URL of the page you are in (which woul
 
 For almost any paper, Sci-hub will be enough. The remaining tips I have will help if by an unlucky draw of the cards the paper you want to read is one of the few that Sci-Hub does not have.
 
+{% include insightporn_midpost_cta.html %}
+
 Sci-Hub is liberating. In the Greek mythos, Prometheus stole the fire from the gods and gifted it to humans. Sci-Hub is that Promethean enterprise, setting knowledge free from the shackles it has been bound to. To say that Sci-Hub is one of the things in this world I value the most is an understatement. My life would be irrevocably poorer without its existence, and if you are only now discovering it, I am sure that you will in no time agree with me when I say that this website, created by an unassuming Kazakhstani programmer, is one of the gems of the Internet.  
 
 Let's just hope that Alexandra doesn't end up [sharing Prometheus' rotten fate](https://qz.com/1773765/sci-hub-creator-says-shes-not-working-for-russian-intelligence/). 

@@ -36,10 +36,6 @@ Which is why everyone should use it.
 
 It can be tough for those on the outside to fire up a Twitter account and understand what it is that makes it worth their time. The very idea of following people so that you can read what they write in 280-character chunks seems dumb. It certainly doesn’t look like any other social media platform, and there’s a sizable gap between when one starts using it and getting enough of an understanding to use it well.
 
-<br/><br/>
-
---- 
-
 Any proper use of Twitter starts with this fundamental principle:
 
 **You are the one in control over who has permission to put things in front of you.**
@@ -55,6 +51,8 @@ How that principle caches out in concrete terms is up to you. Interesting people
 They could be experts in niche academic areas sharing the latest research, or obscure bloggers spinning flimsy theories that purport to explain how society AcTuAlLy works. It doesn’t matter. What matters is that if you find what they share interesting, you follow them. Follow enough of these interesting people and you will have created a place on the Internet that has been specifically tailored for you.
 
 What’s more, the more you use Twitter, the more to your liking it becomes.
+
+{% include insightporn_midpost_cta.html %}
 
 The more interesting people you follow, the more interesting things you will be exposed to. Some of these interesting things will be interesting people. Follow these people. They too will share interesting things, some of which will, again, be interesting people. And away the flywheel goes. 
 

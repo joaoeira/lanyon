@@ -95,6 +95,8 @@ It is therefore confusing what could have led Shereshevsky to curse his aberrant
 
 As Luria writes in the book where he details his efforts at understanding the lived experience of Shereshevsky, "many of us are anxious to find ways to improve our memories; none of us have to deal with the problem of how to forget. In [Shereshevsky]'s case, however, precisely the reverse was true. **The big question for him, and the most troublesome, was how he could learn to forget.**" As with the shopgoer, who upon entering the parking lot is beset by his many memories, because of this otherworldly ability to never forget, Shereshevky's mind was a "virtual chaos".
 
+{% include insightporn_midpost_cta.html %}
+
 He could not, for example, read a story the same way you and me can. When we read of sorcerers and barbarians, of immense armies battling it out in the battlefield, our minds conjure images that visually capture the action of what we're reading. These images can be more or less complex and vivid depending on the person - though some, called aphantasiacs, are not able to come up with any such imagery - but we are never under any threat of being overwhelmed by the what our mind conjures. This was not so for Shereshevsky. Each detail gave rise to images so detailed it was as if they were real, and the accumulation of these details meant that the he would lose the thread of even the simplest of stories. Each word, each object, triggered the recall of his many memories, a cascading event which he was powerless to stop. How was he to concentrate on the story when it is constantly being pushed aside by the ever enlarging mental world created by his mind? 
 
 People thought of Shereshevsky as dull-witted, and it is not surprising that they did so. He was not the master of his memory, just as we are not of ours, but wherein we can do things safe in the knowledge that at no point we will be overwhelmed by our memories choose to throw at us, Shereshevsky was in constant danger of being assaulted by his.  
@@ -170,6 +172,7 @@ You can go ahead. Who knows, maybe I'll learn a thing or two.
 
 
 Okay where were we? Ah, that's right.
+
 
 If memory is not about the past, but rather the future, then the decision to keep some memories around and let others fall by the wayside should exploit regularities in the environment so as to determine which memories are likely to be needed. 
 
